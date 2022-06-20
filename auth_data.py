@@ -1,0 +1,5 @@
+token = '5110849681:AAGXMM3XECsQOR2qTFJIXSInaUORJ9Ac8lQ'
+host = 'sql11.freesqldatabase.com'
+user = 'sql11500926'
+password = '2PVTL4bPq5'
+db_name = 'sql11500926'
