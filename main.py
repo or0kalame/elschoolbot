@@ -142,9 +142,3 @@ def elschool_html(log, passw):
             return str(marks_table)
     except:
         return 'Неправильно введены данные!'
-
-
-# if __name__ == '__main__':
-#     k = get_marks_table('Gatiyatullin_Martin', 'Vfhnbif11')
-#     for key, value in k.items():
-#         print(key + ':', value)
